@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎶 Carnatic Raga Identifier
 
 **AI-powered machine learning system to identify 10 Carnatic ragas from audio files using ensemble models.**
@@ -531,3 +532,6 @@ Educational project for Carnatic music analysis and machine learning demonstrati
 ---
 
 **Created for college project - Carnatic Raga Identification using ML**
+=======
+# Identification-of-raga
+>>>>>>> 2c5cf4300b0d479533b3fe5c31ca532a100f0c18
